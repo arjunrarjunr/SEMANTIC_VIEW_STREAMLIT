@@ -281,8 +281,3 @@ ChatApp.run()
 ```
 
 ---
-
-**For implementation details, see [STREAMLIT-3.py](STREAMLIT-3.py)**  
-**For usage instructions, see [README_REFACTORED.md](README_REFACTORED.md)**  
-**For setup help, see [SETUP_GUIDE.md](SETUP_GUIDE.md)**
-
